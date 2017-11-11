@@ -1,0 +1,33 @@
+D:\GEDOCT\GEDOCT\bin\x86\Debug\GEDOCT.exe.config
+D:\GEDOCT\GEDOCT\bin\x86\Debug\GeDoct.sdf
+D:\GEDOCT\GEDOCT\bin\x86\Debug\GEDOCT.exe
+D:\GEDOCT\GEDOCT\bin\x86\Debug\GEDOCT.pdb
+D:\GEDOCT\GEDOCT\obj\x86\Debug\GEDOCT.FicheInfoDoctorant.resources
+D:\GEDOCT\GEDOCT\obj\x86\Debug\GEDOCT.Forms.FormClosing.resources
+D:\GEDOCT\GEDOCT\obj\x86\Debug\GEDOCT.Forms.FormImpression.resources
+D:\GEDOCT\GEDOCT\obj\x86\Debug\GEDOCT.Forms.FormProgressBar.resources
+D:\GEDOCT\GEDOCT\obj\x86\Debug\GEDOCT.Forms.GestionDiplomes.resources
+D:\GEDOCT\GEDOCT\obj\x86\Debug\GEDOCT.Forms.GestionInscriptions.resources
+D:\GEDOCT\GEDOCT\obj\x86\Debug\GEDOCT.Forms.SplashScreen.resources
+D:\GEDOCT\GEDOCT\obj\x86\Debug\GEDOCT.Properties.Resources.resources
+D:\GEDOCT\GEDOCT\obj\x86\Debug\GEDOCT.csproj.GenerateResource.Cache
+D:\GEDOCT\GEDOCT\obj\x86\Debug\GEDOCT.exe
+D:\GEDOCT\GEDOCT\obj\x86\Debug\GEDOCT.pdb
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\bin\x86\Debug\GEDOCT.exe.config
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\obj\x86\Debug\GEDOCT.exe
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\obj\x86\Debug\GEDOCT.pdb
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\bin\x86\Debug\GeDoct.sdf
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\bin\x86\Debug\GEDOCT.exe
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\bin\x86\Debug\GEDOCT.pdb
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\obj\x86\Debug\GEDOCT.csprojResolveAssemblyReference.cache
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\obj\x86\Debug\GEDOCT.FicheInfoDoctorant.resources
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\obj\x86\Debug\GEDOCT.Forms.FormClosing.resources
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\obj\x86\Debug\GEDOCT.Forms.FormImpression.resources
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\obj\x86\Debug\GEDOCT.Forms.FormProgressBar.resources
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\obj\x86\Debug\GEDOCT.Forms.GestionDiplomes.resources
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\obj\x86\Debug\GEDOCT.Forms.GestionInscriptions.resources
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\obj\x86\Debug\GEDOCT.Forms.SplashScreen.resources
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\obj\x86\Debug\GEDOCT.Properties.Resources.resources
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\obj\x86\Debug\GEDOCT.csproj.GenerateResource.Cache
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\bin\x86\Debug\System.Data.SqlServerCe.dll
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\bin\x86\Debug\FR\System.Data.SqlServerCe.resources.dll

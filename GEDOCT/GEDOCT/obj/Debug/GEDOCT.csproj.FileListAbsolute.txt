@@ -1,0 +1,101 @@
+E:\Stages\GEDOCT\GEDOCT\bin\Debug\GeDoct.sdf
+E:\Stages\GEDOCT\GEDOCT\bin\Debug\GEDOCT.exe.config
+E:\Stages\GEDOCT\GEDOCT\bin\Debug\GEDOCT.exe
+E:\Stages\GEDOCT\GEDOCT\bin\Debug\GEDOCT.pdb
+E:\Stages\GEDOCT\GEDOCT\obj\Debug\GEDOCT.FicheInfoDoctorant.resources
+E:\Stages\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.FormClosing.resources
+E:\Stages\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.FormImpression.resources
+E:\Stages\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.FormProgressBar.resources
+E:\Stages\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.GestionDiplomes.resources
+E:\Stages\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.GestionInscriptions.resources
+E:\Stages\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.SplashScreen.resources
+E:\Stages\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Properties.Resources.resources
+E:\Stages\GEDOCT\GEDOCT\obj\Debug\GEDOCT.csproj.GenerateResource.Cache
+E:\Stages\GEDOCT\GEDOCT\obj\Debug\GEDOCT.exe
+E:\Stages\GEDOCT\GEDOCT\obj\Debug\GEDOCT.pdb
+D:\GEDOCT\GEDOCT\bin\Debug\GEDOCT.exe.config
+D:\GEDOCT\GEDOCT\obj\Debug\GEDOCT.exe
+D:\GEDOCT\GEDOCT\obj\Debug\GEDOCT.pdb
+D:\GEDOCT\GEDOCT\obj\Debug\GEDOCT.csprojResolveAssemblyReference.cache
+D:\GEDOCT\GEDOCT\obj\Debug\GEDOCT.FicheInfoDoctorant.resources
+D:\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.FormClosing.resources
+D:\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.FormImpression.resources
+D:\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.FormProgressBar.resources
+D:\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.GestionDiplomes.resources
+D:\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.GestionInscriptions.resources
+D:\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.SplashScreen.resources
+D:\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Properties.Resources.resources
+D:\GEDOCT\GEDOCT\obj\Debug\GEDOCT.csproj.GenerateResource.Cache
+D:\GEDOCT\GEDOCT\bin\Debug\GeDoct.sdf
+D:\GEDOCT\GEDOCT\bin\Debug\GEDOCT.exe
+D:\GEDOCT\GEDOCT\bin\Debug\GEDOCT.pdb
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\bin\Debug\GeDoct.sdf
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\bin\Debug\GEDOCT.exe.config
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\bin\Debug\GEDOCT.exe
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\bin\Debug\GEDOCT.pdb
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\obj\Debug\GEDOCT.FicheInfoDoctorant.resources
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.FormClosing.resources
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.FormImpression.resources
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.FormProgressBar.resources
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.GestionDiplomes.resources
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.GestionInscriptions.resources
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.SplashScreen.resources
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Properties.Resources.resources
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\obj\Debug\GEDOCT.csproj.GenerateResource.Cache
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\obj\Debug\GEDOCT.exe
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\obj\Debug\GEDOCT.pdb
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\obj\Debug\GEDOCT.csprojResolveAssemblyReference.cache
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\MUSTAPHA GHLISSI\Desktop\GEDOCT\GEDOCT\bin\Debug\FR\System.Data.SqlServerCe.resources.dll
+I:\GEDOCT\GEDOCT\GEDOCT\bin\Debug\GEDOCT.exe.config
+I:\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.exe
+I:\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.pdb
+I:\GEDOCT\GEDOCT\GEDOCT\bin\Debug\GeDoct.sdf
+I:\GEDOCT\GEDOCT\GEDOCT\bin\Debug\GEDOCT.exe
+I:\GEDOCT\GEDOCT\GEDOCT\bin\Debug\GEDOCT.pdb
+I:\GEDOCT\GEDOCT\GEDOCT\bin\Debug\System.Data.SqlServerCe.dll
+I:\GEDOCT\GEDOCT\GEDOCT\bin\Debug\FR\System.Data.SqlServerCe.resources.dll
+I:\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.csprojResolveAssemblyReference.cache
+I:\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.FicheInfoDoctorant.resources
+I:\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.FormClosing.resources
+I:\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.FormImpression.resources
+I:\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.FormProgressBar.resources
+I:\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.GestionDiplomes.resources
+I:\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.GestionInscriptions.resources
+I:\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.SplashScreen.resources
+I:\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Properties.Resources.resources
+I:\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.csproj.GenerateResource.Cache
+D:\MPISI 1\c#\GEDOCT\GEDOCT\GEDOCT\bin\Debug\GeDoct.sdf
+D:\MPISI 1\c#\GEDOCT\GEDOCT\GEDOCT\bin\Debug\GEDOCT.exe.config
+D:\MPISI 1\c#\GEDOCT\GEDOCT\GEDOCT\bin\Debug\GEDOCT.exe
+D:\MPISI 1\c#\GEDOCT\GEDOCT\GEDOCT\bin\Debug\GEDOCT.pdb
+D:\MPISI 1\c#\GEDOCT\GEDOCT\GEDOCT\bin\Debug\itextsharp.dll
+D:\MPISI 1\c#\GEDOCT\GEDOCT\GEDOCT\bin\Debug\System.Data.SqlServerCe.dll
+D:\MPISI 1\c#\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.csproj.ResolveComReference.cache
+D:\MPISI 1\c#\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.FormPDFGenerator.resources
+D:\MPISI 1\c#\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.FicheInfoDoctorant.resources
+D:\MPISI 1\c#\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.FormClosing.resources
+D:\MPISI 1\c#\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.FormImpression.resources
+D:\MPISI 1\c#\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.FormProgressBar.resources
+D:\MPISI 1\c#\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.GestionDiplomes.resources
+D:\MPISI 1\c#\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.GestionInscriptions.resources
+D:\MPISI 1\c#\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.SplashScreen.resources
+D:\MPISI 1\c#\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Properties.Resources.resources
+D:\MPISI 1\c#\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.csproj.GenerateResource.Cache
+D:\MPISI 1\c#\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.exe
+D:\MPISI 1\c#\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.pdb
+G:\GEDOCT\GEDOCT\GEDOCT\bin\Debug\GEDOCT.exe.config
+G:\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.csproj.ResolveComReference.cache
+G:\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.exe
+G:\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.pdb
+G:\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.csprojResolveAssemblyReference.cache
+G:\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.FormPDFGenerator.resources
+G:\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.FicheInfoDoctorant.resources
+G:\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.FormClosing.resources
+G:\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.FormImpression.resources
+G:\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.FormProgressBar.resources
+G:\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.GestionDiplomes.resources
+G:\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.GestionInscriptions.resources
+G:\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Forms.SplashScreen.resources
+G:\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.Properties.Resources.resources
+G:\GEDOCT\GEDOCT\GEDOCT\obj\Debug\GEDOCT.csproj.GenerateResource.Cache
